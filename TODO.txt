@@ -1,0 +1,17 @@
+- Movimento do robo
+- atacar o inimigo
+- troca de turno
+- ganhar/perder o jogo
+- tela de loading
+- calculo do ataque contra defesa
+- mostrar MISS quando o player errar
+- carregar dos arquivos o jogador
+- criar tela de save e load
+
+- carregar dos arquivos os inimigos
+- criar tela do jogo
+	- mostrar os inimigos
+	- mostrar o status do player
+	
+- dropar um item do inimigo para o jogador
+	- criar tela de premiacao

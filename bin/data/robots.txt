@@ -1,0 +1,9 @@
+1 Drill 1 1 1
+1
+1 robot-01-1.png
+2 Lan 1 1 1
+1
+1 robot-02-1.png
+3 ElectroRobot 2 2 2
+1
+1 robot-03-1.png

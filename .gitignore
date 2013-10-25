@@ -1,0 +1,6 @@
+*.sln
+*.sdf
+*.suo
+*.vcxproj*
+.DS_Store
+*.cdr

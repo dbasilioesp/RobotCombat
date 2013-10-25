@@ -1,0 +1,5 @@
+1 Shock	150 10 8 1
+2 Laser	170 8 5 2
+3 Laser2 250 10 8 2
+4 Shock2 300 12 10 1
+5 SuperLaser 500 7 15 3
