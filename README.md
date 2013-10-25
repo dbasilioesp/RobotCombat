@@ -1,10 +1,10 @@
 RobotCombat
 ===========
 
-Unisinos project made for grau A.
 
 Developer & Art: David Basilio.
-Libraries: LibEGL4
+
+Libraries: [LibEGL4](https://github.com/farlei/libEGL)
 
 
 
